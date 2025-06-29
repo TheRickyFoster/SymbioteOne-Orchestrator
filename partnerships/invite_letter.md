@@ -1,0 +1,3 @@
+Dear Partner,
+
+You are invited to join the SymbioteOne-Orchestrator initiative...

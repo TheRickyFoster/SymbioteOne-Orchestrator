@@ -1,0 +1,3 @@
+# Hybrid License
+
+Includes copyright, trademark, and limited patent protections...

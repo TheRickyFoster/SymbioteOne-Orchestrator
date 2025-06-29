@@ -1,0 +1,3 @@
+[tool.poetry]
+name = 'symbioteone-orchestrator'
+version = '1.0.0'

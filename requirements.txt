@@ -1,0 +1,4 @@
+crewai
+langgraph
+openai
+python-dotenv
